@@ -1,0 +1,30 @@
+{
+  "name": "http-verb",
+  "version": "1.0.0",
+  "description": "A utility package for discriptive error handling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iammayank18/http-verb.git"
+  },
+  "keywords": [
+    "http",
+    "error",
+    "error handling",
+    "status",
+    "internet"
+  ],
+  "author": "Mayank <github.com/iammayank18>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iammayank18/http-verb.git/issues"
+  },
+  "homepage": "https://github.com/Iammayank18/http-verb.git#readme",
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
