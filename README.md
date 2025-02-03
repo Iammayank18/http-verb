@@ -82,9 +82,9 @@ The package supports all standard HTTP status codes, including:
 
 ## License
 
-This package is licensed under the [MIT License](LICENSE). See the `LICENSE` file for more details.
+This package is licensed under the MIT License.
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have a feature request, please open an issue on the [GitHub repository](https://github.com/your-repo/http-verb).
+Contributions are welcome! If you find a bug or have a feature request, please open an issue on the [GitHub repository](https://github.com/Iammayank18/http-verb).
 
